@@ -1,0 +1,7 @@
+age,numsiblings
+portembarked,sex
+portembarked,passengerclass
+passengerclass,fare
+sex,survived
+numsiblings,portembarked
+numsiblings,numparentschildren
